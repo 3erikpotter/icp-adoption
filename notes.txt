@@ -14,12 +14,11 @@ Universal Trusted Credentials (UTC) initiative
 / The United Nations Development Programme (UNDP/ leading United Nations organization), the Monetary Authority/ central bank of Singapore (MAS), Bank of Ghana (BoG), Global Legal Entity Identifier Foundation (GLEIF) and the SME Finance Forum 
 / https://www.undp.org/policy-centre/singapore/publications/universal-trusted-credentials
 
-VRC
+VRC - Voluntary Recycling Credits
 / establishes a set of standardized rules and processes to enable institutions to compensate their solid waste footprint through a transparent ecosystem.
 / Roland Berger, BEEAH Group, International Solid Waste Association (ISWA, supported by the UAE and COP28 Presidency
 / https://www.youtube.com/watch?v=LJN1xxUQYP8&t=137s&ab_channel=DFINITY
 / https://www.prnewswire.com/news-releases/roland-berger-partners-with-the-dfinity-foundation-for-blockchain-powered-voluntary-recycling-credits-standard-to-transform-waste-management-301957569.html
-
 
 FederItaly 100% in Italy by OrigynTech
 / https://medium.com/dfinity/100-made-in-italy-brand-to-leverage-the-internet-computer-protocol-ecb3df45371c
@@ -41,7 +40,7 @@ Pan-industry solutions
 Most secure and complete e2e software platform
 
 Best complementary tech for Bitcoin
-/ full-stack e2e on-chain economy, no admin keys
+/ full-stack e2e on-chain economy, no admin keys, ckBTC mirrored Bitcoin (running a btc node fully on-chain, within a smart contract)
 
 Only way to host AI smart contracts e2e (enterprise, government, hospital, military etc assistant AI)
 / highly critical and sensitive data that needs sound protection. Needs to be all on-chain, verifiable, trustless, tamperproof 
