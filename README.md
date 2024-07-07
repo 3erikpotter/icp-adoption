@@ -31,12 +31,13 @@ Repository to document the opportunities, collaborations, and projects of the IC
 
 ## VRC - Voluntary Recycling Credits
 - Establishes a set of standardized rules and processes to enable institutions to compensate their solid waste footprint through a transparent ecosystem.
+- plan is to be fully operational ahead of cop30 (2025) with multiple countries (UAE, Brazil etc)
 - Key Partners:
+  - BEEAH Group, 15y old, 13000 staff, the largest waste management company in the UAE, expanded to Saudi, Egypt. Also expanding into waste-to-energy.
   - Roland Berger
-  - BEEAH Group
   - International Solid Waste Association (ISWA)
   - Supported by the UAE and COP28 Presidency
-- [Video on VRC](https://www.youtube.com/watch?v=LJN1xxUQYP8&t=137s&ab_channel=DFINITY)
+- [The VRC Initiative and Beyond - BEEAH Group](https://www.youtube.com/watch?v=LJN1xxUQYP8&t=137s&ab_channel=DFINITY)
 - [Roland Berger partnership announcement](https://www.prnewswire.com/news-releases/roland-berger-partners-with-the-dfinity-foundation-for-blockchain-powered-voluntary-recycling-credits-standard-to-transform-waste-management-301957569.html)
 
 ## FederItaly 100% in Italy
