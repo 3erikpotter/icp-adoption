@@ -33,7 +33,7 @@ Repository to document the opportunities, collaborations, and projects of the IC
 - Establishes a set of standardized rules and processes to enable institutions to compensate their solid waste footprint through a transparent ecosystem.
 - plan is to be fully operational ahead of cop30 (2025) with multiple countries (UAE, Brazil etc)
 - Key Partners:
-  - BEEAH Group, 15y old, 13000 staff, the largest waste management company in the UAE, expanded to Saudi, Egypt. Also expanding into waste-to-energy.
+  - BEEAH Group, 15y old, 13000 staff, the largest waste management company in the UAE, expanded to Saudi, and Egypt. Working also on waste-to-energy and waste-to-hydrogen.
   - Roland Berger
   - International Solid Waste Association (ISWA)
   - Supported by the UAE and COP28 Presidency
