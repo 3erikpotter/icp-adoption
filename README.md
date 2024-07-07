@@ -65,9 +65,13 @@ Repository to document the opportunities, collaborations, and projects of the IC
 # Pan-Industry Solutions
 
 ## Most Secure and Complete E2E Software Platform
+- elevates cloud compute, cloud 3.0
+- tamperproof sovereign software / Open Internet
+- for the first time, web3.0 UX is possible.
 
 ## Best Complementary Tech for Bitcoin
 - Full-stack e2e on-chain economy, no admin keys, ckBTC mirrored Bitcoin (running a btc node fully on-chain, within a smart contract)
+- freedom money within the Open Internet. Web3.0 Bitcoin experience.
 
 ## Only Way to Host AI Smart Contracts E2E
 - Suitable for enterprise, government, hospital, military applications
