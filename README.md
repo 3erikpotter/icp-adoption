@@ -6,15 +6,15 @@ Repository to document the opportunities, collaborations, and projects of the IC
 ## Dfinity
 - World-class founders, people, partners, tech, vision, and execution
 
-## United Nations Development Program
-- Operating in 170 countries
-
 ## Switzerland 
 - Collaboration with institutions, private banks, Lugano, major high-end events
 
 ## Singapore
 -  government and central bank
 -  building digital solutions for other governments using ICP
+
+## United Nations Development Program
+- Operating in 170 countries
 
 ## Universal Trusted Credentials (UTC) Initiative
 - A significant step towards enhancing digital trust and financial inclusion for Micro, Small, and Medium Enterprises (MSMEs) globally. Built on ICP
