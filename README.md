@@ -79,6 +79,11 @@ Repository to document the opportunities, collaborations, and projects of the IC
 ## SingularityNET partnership (now Artificial Superintelligence Alliance)
 - building fully on-chain AI marketplace.
 - enhancing the interconnectivity of the AGI knowledge metagraph with the decentralized full-stack ICP network.
+  
+## Gold NFTs, tokenized gold, gold-backed stablecoin. 
+- Metalor (100% produced in Switzerland), KPMG (regulated and audited), Origyn (redeemable on-chain certificates), Loomis (stored in swiss vaults)
+- https://www.gold-dao.org/
+  
 ---
 
 # Pan-Industry Solutions
