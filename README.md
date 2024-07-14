@@ -64,6 +64,21 @@ Repository to document the opportunities, collaborations, and projects of the IC
 - a scalable, secure, convenient and fully on-chain Bitcoin L2 payment
 - [MyLugano crypto payment app](https://decrypt.co/155275/mylugano-crypto-payment-app-adds-support-for-internet-computers-multi-chain-bitcoin-twin?amp=1)
 
+## Mexico universities piloting ckBTC with El Salvadorian bank
+- More than 4,000 wallets with ckBTC will be distributed to students to promote the adoption of cryptocurrencies and digital financial education in Mexico
+- https://x.com/ElChingon185840/status/1812286652892741718
+- https://www.criptotendencias.com/actualidad/ditobanx-y-icp-hub-mexico-se-alian-para-aceptar-pagos-con-ckbtc-en/
+
+## Indonesia on-chain
+- a unique government-led education program powered by the ICP.
+- designed as a holistic and comprehensive educational and developmental program
+- educational platform + student engagement and achievements + post-program opportunities
+- over 30 universities, over 50 high schools, 3 government and over 25 other partners.
+- https://indonesiaonchain.com/en
+
+## SingularityNET partnership (now Artificial Superintelligence Alliance)
+- building fully on-chain AI marketplace.
+- enhancing the interconnectivity of the AGI knowledge metagraph with the decentralized full-stack ICP network.
 ---
 
 # Pan-Industry Solutions
