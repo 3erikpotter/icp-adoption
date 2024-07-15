@@ -101,8 +101,9 @@ Repository to document the opportunities, collaborations, and projects of the IC
 - Suitable for enterprise, government, hospital, military applications
 - Handles highly critical and sensitive data with sound protection. Needs to be all on-chain, verifiable, trustless, tamperproof 
 
-## UTOPIA Private crypto cloud
-- Targeting governments, global institutions
+## UTOPIA private crypto cloud protocol
+- Unstoppable Tamperproof Open Platform for Independent Autonomy
+- Targeting governments, global institutions, sovereign organizations
 - Very early stage, not live and no verified users yet, but strong demand anticipated and rare opportunity.
 - No other such tech, and in combination of AI on-chain and the public ICP crypto cloud
 
