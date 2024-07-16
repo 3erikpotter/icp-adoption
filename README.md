@@ -5,12 +5,13 @@ Repository to document the opportunities, collaborations, and projects of the IC
 
 ## Dfinity
 - World-class founders, people, partners, tech, vision, and execution
+- https://dfinity.org/#team
 
 ## Switzerland 
 - Collaboration with institutions, private banks, Lugano, major high-end events
 
 ## Singapore
--  government and central bank
+-  government and central bank recognition
 -  building digital solutions for other governments using ICP
 
 ## United Nations Development Program
@@ -34,8 +35,8 @@ Repository to document the opportunities, collaborations, and projects of the IC
 - plan is to be fully operational ahead of cop30 (2025) with multiple countries (UAE, Brazil etc)
 - Key Partners:
   - BEEAH Group, 15y old, 13000 staff, the largest waste management company in the UAE, expanded to Saudi, and Egypt. Working also on waste-to-energy and waste-to-hydrogen.
-  - Roland Berger
-  - International Solid Waste Association (ISWA)
+  - Roland Berger, a management consultancy of European heritage with a strong international footprint. Operates 51 offices in all major markets. 3000 employees offer a unique combination of an analytical approach and an empathic attitude. "The world needs a new sustainable paradigm that takes the entire value cycle into account. Working in cross-competence teams across all relevant industries and business functions, we provide the best expertise to meet the profound challenges of today and tomorrow."
+  - International Solid Waste Association (ISWA), an international network of waste professionals and experts from around the world whose mission is “To Promote and Develop Sustainable and Professional Waste Management Worldwide and the transition to a circular economy.”
   - Supported by the UAE and COP28 Presidency
 - [The VRC Initiative and Beyond - BEEAH Group](https://www.youtube.com/watch?v=LJN1xxUQYP8&t=137s&ab_channel=DFINITY)
 - [Roland Berger partnership announcement](https://www.prnewswire.com/news-releases/roland-berger-partners-with-the-dfinity-foundation-for-blockchain-powered-voluntary-recycling-credits-standard-to-transform-waste-management-301957569.html)
@@ -103,9 +104,10 @@ Repository to document the opportunities, collaborations, and projects of the IC
 
 ## UTOPIA private crypto cloud protocol
 - Unstoppable Tamperproof Open Platform for Independent Autonomy
-- Targeting governments, global institutions, sovereign organizations
+- Targeting governments, global institutions, sovereign organizations | cybercrime is a $10T problem and opportunity
 - Very early stage, not live and no verified users yet, but strong demand anticipated and rare opportunity.
 - No other such tech, and in combination of AI on-chain and the public ICP crypto cloud
+- https://utopia.com
 
 ## Chain Fusion, Web3.0 Hub
 - unique and award-winning cryptographic innovation - Chainkey Technology
