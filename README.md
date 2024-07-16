@@ -91,7 +91,7 @@ Repository to document the opportunities, collaborations, and projects of the IC
 
 ## Most Secure and Complete E2E Software Platform
 - elevates cloud compute, cloud 3.0
-- tamperproof sovereign software / Open Internet
+- tamperproof sovereign software / Open Internet | cybercrime is a $10T problem and opportunity
 - for the first time, web3.0 UX is possible.
 
 ## Best Complementary Tech for Bitcoin
@@ -104,7 +104,7 @@ Repository to document the opportunities, collaborations, and projects of the IC
 
 ## UTOPIA private crypto cloud protocol
 - Unstoppable Tamperproof Open Platform for Independent Autonomy
-- Targeting governments, global institutions, sovereign organizations | cybercrime is a $10T problem and opportunity
+- Targeting governments, global institutions, sovereign organizations
 - Very early stage, not live and no verified users yet, but strong demand anticipated and rare opportunity.
 - No other such tech, and in combination of AI on-chain and the public ICP crypto cloud
 - https://utopia.com
