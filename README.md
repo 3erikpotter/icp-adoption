@@ -114,4 +114,5 @@ Repository to document the opportunities, collaborations, and projects of the IC
 - full-stack cloud capabilities, allows the crypto space to build fully on-chain dApps
 
 ## Strong Global Community
-- 20+ local hubs, universities
+- 35+ hubs and representatives, often collaborating with local universities
+- $200M+ in funding available
