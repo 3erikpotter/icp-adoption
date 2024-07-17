@@ -81,9 +81,10 @@ Repository to document the opportunities, collaborations, and projects of the IC
 - building fully on-chain AI marketplace.
 - enhancing the interconnectivity of the AGI knowledge metagraph with the decentralized full-stack ICP network.
   
-## Gold NFTs, tokenized gold, gold-backed stablecoin. 
+## Gold DAO
+- Gold NFTs -> tokenized gold -> gold-backed stablecoin
 - Metalor (100% produced in Switzerland), KPMG (regulated and audited), Origyn (redeemable on-chain certificates), Loomis (stored in Swiss vaults)
-- Gold as currency
+- "Gold as currency"
 - https://www.gold-dao.org/
 - https://www.youtube.com/watch?v=5VXy03swCk0&t=10s&ab_channel=DFINITY
   
