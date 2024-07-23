@@ -87,6 +87,18 @@ Repository to document the opportunities, collaborations, and projects of the IC
 - "Gold as currency"
 - https://www.gold-dao.org/
 - https://www.youtube.com/watch?v=5VXy03swCk0&t=10s&ab_channel=DFINITY
+
+## Key WebAssembly player
+- platform agnostic efficient binary code-format that runs in browsers.
+- W3C (World Wide Web Consortium) named it as web standard in 2019.
+- Andreas Rossberg, was a co-founder of WebAssembly and a Principal Engineer and Researcher at Dfinity
+- Carnegie Mellon University launches WebAssembly Research Center with three founding members: DFINITY Foundation, Shopify and Siemens.
+- https://www.cs.cmu.edu/news/2023/webassembly-research-center
+- Also member of Bytecode Alliance — an organization that develops a high-performance implementation of WebAssembly called Wasmtime runtime.
+
+## Strong Global Community
+- 35+ hubs and representatives, often collaborating with local universities
+- $200M+ in funding available
   
 ---
 
@@ -115,15 +127,3 @@ Repository to document the opportunities, collaborations, and projects of the IC
 ## Chain Fusion, Web3.0 Hub
 - unique and award-winning cryptographic innovation - Chainkey Technology
 - full-stack cloud capabilities, allows the crypto space to build fully on-chain dApps
-
-## Key WebAssembly player
-- platform agnostic efficient binary code-format that runs in browsers.
-- W3C (World Wide Web Consortium) named it as web standard in 2019.
-- Andreas Rossberg, was a co-founder of WebAssembly and a Principal Engineer and Researcher at Dfinity
-- Carnegie Mellon University launches WebAssembly Research Center with three founding members: DFINITY Foundation, Shopify and Siemens.
-- https://www.cs.cmu.edu/news/2023/webassembly-research-center
-- Also member of Bytecode Alliance — an organization that develops a high-performance implementation of WebAssembly called Wasmtime runtime.
-
-## Strong Global Community
-- 35+ hubs and representatives, often collaborating with local universities
-- $200M+ in funding available
