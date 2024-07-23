@@ -1,4 +1,4 @@
-# icp-adoption
+# The Internet Computer adoption
 Repository to document the opportunities, collaborations, and projects of the ICP ecosystem
 
 # Major Early Players and Opportunities
