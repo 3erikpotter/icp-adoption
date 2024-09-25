@@ -41,6 +41,11 @@ Repository to document the opportunities, collaborations, and projects of the IC
 - [The VRC Initiative and Beyond - BEEAH Group](https://www.youtube.com/watch?v=LJN1xxUQYP8&t=137s&ab_channel=DFINITY)
 - [Roland Berger partnership announcement](https://www.prnewswire.com/news-releases/roland-berger-partners-with-the-dfinity-foundation-for-blockchain-powered-voluntary-recycling-credits-standard-to-transform-waste-management-301957569.html)
 
+## Cambodia Smart City
+- Partnering with Cambodia Ministry of Industry, Science, Technology and Innovation
+- Smart City infrastructure, AI and sovereign cloud tech
+- https://cointelegraph.com/news/dfinity-cambodia-blockchain-smart-cities
+
 ## FederItaly 100% in Italy
 - all on-chain, incl high-definition biometric scan
 - by OrigynTech pan-industry RWA tech
@@ -123,6 +128,10 @@ Repository to document the opportunities, collaborations, and projects of the IC
 - Very early stage, not live and no verified users yet, but strong demand anticipated and rare opportunity.
 - No other such tech, and in combination of AI on-chain and the public ICP crypto cloud
 - https://utopia.com
+
+## Derisk Big Tech/ migrate data to on-chain
+- Provide an opportunity to delegate away a complicated, costly and legally liable part of the business
+- Migrate data storage (photos, videos) to on-chain. Become NFTs. Lock up royalties and licensing.
 
 ## Chain Fusion, Web3.0 Hub
 - unique and award-winning cryptographic innovation - Chainkey Technology
