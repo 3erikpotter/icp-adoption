@@ -81,11 +81,7 @@ Repository to document the opportunities, collaborations, and projects of the IC
 - educational platform + student engagement and achievements + post-program opportunities
 - over 30 universities, over 50 high schools, 3 government and over 25 other partners.
 - https://indonesiaonchain.com/en
-
-## SingularityNET partnership (now Artificial Superintelligence Alliance)
-- building fully on-chain AI marketplace.
-- enhancing the interconnectivity of the AGI knowledge metagraph with the decentralized full-stack ICP network.
-  
+ 
 ## Gold DAO
 - Gold NFTs -> tokenized gold -> gold-backed stablecoin
 - Metalor (100% produced in Switzerland), KPMG (regulated and audited), Origyn (redeemable on-chain certificates), Loomis (stored in Swiss vaults)
