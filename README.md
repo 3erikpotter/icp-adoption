@@ -1,5 +1,6 @@
 # The Internet Computer adoption
-Repository to document the opportunities, collaborations, and projects of the ICP ecosystem
+Repository to document the opportunities, collaborations, and projects of the ICP ecosystem.
+Companion to the https://why-internetcomputer.org web page.
 
 # Major Early Players and Opportunities
 
@@ -53,7 +54,7 @@ Repository to document the opportunities, collaborations, and projects of the IC
 
 ## Knowledge Foundation
 - responsible for the design, development, deployment and ongoing maintenance of the global Knowledge Token® system and related open international standards for blockchain technology in the field of education.
-- Partner universities: Zurich, Oxford, Yale, MIT, Brown, Lucerne
+- Partners from Universities of Zurich, Oxford, Yale, MIT, Brown, Lucerne
 - Collaborations with:
   - Immersive Education
   - United Nations GRACE
@@ -61,7 +62,6 @@ Repository to document the opportunities, collaborations, and projects of the IC
 - Token and system built on ICP after a year of blockchain analysis. Long-term conviction and global plan
 - [Short interview with director Aaron E. Walsh, on-chain AI](https://www.youtube.com/watch?v=xYf0RKgQcG0&t=18s&ab_channel=DFINITY)
   
-
 ## India Education Certificates
 - Manipur governmental recognition of ICP tech and pilot program
 - [Blockchain technology in Manipur Education Department](https://business-standard.com/amp/content/press-releases-ani/manipur-education-department-embraces-blockchain-technology-on-icp-123120701068_1.html)
