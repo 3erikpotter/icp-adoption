@@ -61,6 +61,12 @@ Companion to the https://why-internetcomputer.org web page.
   - United Nations UNODC
 - Token and system built on ICP after a year of blockchain analysis. Long-term conviction and global plan
 - [Short interview with director Aaron E. Walsh, on-chain AI](https://www.youtube.com/watch?v=xYf0RKgQcG0&t=18s&ab_channel=DFINITY)
+
+## ETH AI Center partnership
+- DFINITY Foundation is joining the ETH AI Center as an Industry Partner.
+- this collaboration gives #ICP direct access to the latest research, talent, and a growing ecosystem of startups in AI and deep tech.
+- and in exchange, we will support their members to build on the only public network in the world that can host and run AI as smart contracts
+- [AI onchain: Daniel Naeff Interview at AI+X Summit](https://www.youtube.com/watch?v=8TVksaxpwK4&ab_channel=DFINITY)
   
 ## India Education Certificates
 - Manipur governmental recognition of ICP tech and pilot program
