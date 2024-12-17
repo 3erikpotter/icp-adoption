@@ -15,8 +15,16 @@ Companion to the https://why-internetcomputer.org web page.
 -  government and central bank recognition
 -  building digital solutions for other governments using ICP
 
+
 ## United Nations Development Program
 - Operating in 170 countries
+
+## National DigiFoundry
+- ICP will provide the alternative decentralized cloud service next to Microsoft, IBM, and Oracle.
+- MANY partnerships within the broader movement: Constellation DAG, GBA, LACChain, United Nations
+- Also US National Science Foundation, US Space Force, US Dept of the Treasury
+- [Digital Asset Innovation Ecosystem](https://www.digifoundry.org/)
+- [ICP Joins National DigiFoundry](https://ledgerlife.io/icp-joins-national-digifoundry-driving-blockchain-innovation-for-2025/)
 
 ## Universal Trusted Credentials (UTC) Initiative
 - A significant step towards enhancing digital trust and financial inclusion for Micro, Small, and Medium Enterprises (MSMEs) globally. Built on ICP
