@@ -25,6 +25,10 @@ Companion to the https://why-internetcomputer.org web page.
 - [Digital Asset Innovation Ecosystem](https://www.digifoundry.org/)
 - [ICP Joins National DigiFoundry](https://ledgerlife.io/icp-joins-national-digifoundry-driving-blockchain-innovation-for-2025/)
 
+## Government and enterprise level on-chain regional cloud
+-- Swiss Subnet - Empowering institutions and enterprises with on-chain privacy, legal compliance, and innovative blockchain technology.
+-- http://subnet.ch/
+
 ## Universal Trusted Credentials (UTC) Initiative
 - A significant step towards enhancing digital trust and financial inclusion for Micro, Small, and Medium Enterprises (MSMEs) globally. Built on ICP
 - [Universal Trusted Credentials @ Point Zero Forum Innovation Tour 2024](https://www.youtube.com/watch?v=TC4rU8rylqw&ab_channel=DFINITY)
